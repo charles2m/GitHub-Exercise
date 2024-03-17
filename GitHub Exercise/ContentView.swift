@@ -18,6 +18,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .fontWeight(.black)
             Text("TestOS")
+            Rectangle()
         }
         .padding()
         
